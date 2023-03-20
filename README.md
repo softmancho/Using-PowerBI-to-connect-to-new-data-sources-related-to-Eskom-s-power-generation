@@ -1,2 +1,3 @@
 # Using-PowerBI-to-connect-to-new-data-sources-related-to-Eskom-s-power-generation
 Using PowerBI to connect to new data sources related to Eskom’s power generation
+One of my proudest projects was building an informative dashboard using Microsoft Power BI, which utilized Eskom data to provide insight into the current South African energy crisis. The project involved connecting to new data sources related to Eskom's power generation, changing data source locations, and creating new visuals. Through the dashboard and its underlying reports, we were able to answer multiple-choice questions and derive valuable insights.
